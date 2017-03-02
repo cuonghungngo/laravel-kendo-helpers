@@ -11,8 +11,8 @@
         "php": ">=5.3.0"
     },
     "autoload": {
-        "psr-0": {
-            "Kendo": "src"
+        "psr-4": {
+            "Windy\\Kendo\\": "src"
         }
     },
     "license": "MIT",
