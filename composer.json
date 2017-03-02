@@ -1,10 +1,10 @@
 {
-    "name": "windy892/laravel-kendo",
+    "name": "windy1208/laravel-kendo-helpers",
     "description": "Parse kendo params to Eloquent query",
     "keywords": ["kendo","laravel"],
     "authors": [{
         "name": "Cuong Ngo Hung",
-        "email": "hungcuong@ononpay.com"
+        "email": "hungcuong@live.com"
     }],
     "minimum-stability": "stable",
     "require": {
@@ -16,5 +16,5 @@
         }
     },
     "license": "MIT",
-    "homepage": "https://gitlab.ononpay.com/hungcuong/laravel-kendo"
+    "homepage": "https://github.com/windy1208/laravel-kendo-helpers"
 }
